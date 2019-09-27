@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         Button button_4=findViewById(R.id.button_4);
         Button button_5=findViewById(R.id.button_5);
         Button button_6=findViewById(R.id.button_6);
-        Button button_7=findViewById(R.id);
-        Button button_8=findViewById(R.id);
+        Button button_7=findViewById(R.id.button_7);
+        Button button_8=findViewById(R.id.button_8);
         Button button_9=findViewById(R.id);
         Button button_add=findViewById(R.id);
         Button button_=findViewById(R.id);
